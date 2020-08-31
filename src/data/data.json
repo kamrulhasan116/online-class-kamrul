@@ -1,0 +1,122 @@
+[{
+  "id": 1,
+  "name": "Angular js",
+  "pricing": 3078 ,
+  "class_number": 147,
+  "class_duration": 75 ,
+  "instrutor": "Eba Reitenbach",
+  "image": "https://i.ibb.co/b1c2LCZ/angular-js.png"
+}, {
+  "id": 2,
+  "name": "basic HTML",
+  "pricing": 6224 ,
+  "class_number": 131,
+  "class_duration": 90 ,
+  "instrutor": "Hashim Signorelli",
+  "image": "https://i.ibb.co/xKn1S5B/Basic-html.png"
+}, {
+  "id": 3,
+  "name": "Basic css",
+  "pricing": 7396 ,
+  "class_number": 128,
+  "class_duration": 78 ,
+  "instrutor": "Shae Ladewig",
+  "image": "https://i.ibb.co/9shb7Fz/basic-css.png"
+}, {
+  "id": 4,
+  "name": "Bootstrap",
+  "pricing": 7266,
+  "class_number": 135,
+  "class_duration": 87,
+  "instrutor": "Thorny Trewman",
+  "image": "https://i.ibb.co/WyZBSHW/bootstrap.png"
+}, {
+  "id": 5,
+  "name": "HTML 5",
+  "pricing": 9029,
+  "class_number": 135,
+  "class_duration": 80,
+  "instrutor": "Hortensia Walworche",
+  "image":"https://i.ibb.co/c1pdCgk/HTML-5.png"
+}, {
+  "id": 6,
+  "name": "Bootstrap 5",
+  "pricing": 8755 ,
+  "class_number": 115,
+  "class_duration": 97 ,
+  "instrutor": "Yardley Haack",
+  "image": "https://i.ibb.co/2MKZ0VJ/boostrap-5.png"
+}, {
+  "id": 7,
+  "name": "Git & github",
+  "pricing": 3841 ,
+  "class_number": 108,
+  "class_duration": 46 ,
+  "instrutor": "Thedric McColm",
+  "image": "https://i.ibb.co/bm6GmDF/github.png"
+}, {
+  "id": 8,
+  "name": "Vanila javascript",
+  "pricing": 8270 ,
+  "class_number": 112,
+  "class_duration": 69 ,
+  "instrutor": "Shepperd De la Barre",
+  "image": "https://i.ibb.co/XsbhfZx/Javascript.png"
+}, {
+  "id": 9,
+  "name": "ES-6",
+  "pricing": 442 ,
+  "class_number": 141,
+  "class_duration": 66,
+  "instrutor": "Tawsha O'Dooghaine",
+  "image": "https://i.ibb.co/gyNhLFm/ES6.png"
+}, {
+  "id": 10,
+  "name": "Jquery",
+  "pricing": 8846,
+  "class_number": 104,
+  "class_duration": 50,
+  "instrutor": "Vallie Bache",
+  "image": "https://i.ibb.co/h7Cvn0R/jquery.png"
+}, {
+  "id": 11,
+  "name": "PHP",
+  "pricing": 5132,
+  "class_number": 124,
+  "class_duration": 92,
+  "instrutor": "Jule Varden",
+  "image": "https://i.ibb.co/xqvr7sj/php.png"
+}, {
+  "id": 12,
+  "name": "Python",
+  "pricing": 9544 ,
+  "class_number": 136,
+  "class_duration": 94 ,
+  "instrutor": "Rosalinde Glanville",
+  "image": "https://i.ibb.co/ZW4Lnbg/python.png"
+}, {
+  "id": 13,
+  "name": "React js",
+  "pricing": 6951,
+  "class_number": 127,
+  "class_duration": 67,
+  "instrutor": "Samara Kendall",
+  "image": "https://i.ibb.co/8r6cqwB/react-js.png"
+}, {
+  "id": 14,
+  "name": "React-Native",
+  "pricing": 3517,
+  "class_number": 129,
+  "class_duration": 80,
+  "instructor": "Cherey Canacott",
+  "image": "https://i.ibb.co/Prbj8Fg/react-native.png"
+}, {
+  "id": 15,
+  "name": "Vue js",
+  "pricing": 5719,
+  "class_number": 143,
+  "class_duration": 77,
+  "instructor": "Clerc Mepham",
+  "image": "https://i.ibb.co/nrxXd88/Vue-js.png"
+
+}]
